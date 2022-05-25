@@ -2,5 +2,11 @@
   "name": "Electron-project",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^19.0.0"
+  }
 }
